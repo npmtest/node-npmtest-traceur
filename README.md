@@ -1,4 +1,7 @@
-# test coverage for  [traceur (v0.0.111)](https://github.com/google/traceur-compiler)  [![npm package](https://img.shields.io/npm/v/npmtest-traceur.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-traceur) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-traceur.svg)](https://travis-ci.org/npmtest/node-npmtest-traceur)
+# npmtest-traceur
+
+#### test coverage for  [traceur (v0.0.111)](https://github.com/google/traceur-compiler)  [![npm package](https://img.shields.io/npm/v/npmtest-traceur.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-traceur) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-traceur.svg)](https://travis-ci.org/npmtest/node-npmtest-traceur)
+
 #### ES6 to ES5 compiler
 
 [![NPM](https://nodei.co/npm/traceur.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/traceur)
@@ -9,11 +12,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-traceur/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-traceur/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-traceur/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-traceur/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-traceur/build/screenCapture.buildCi.browser.coverage.example.html.png)](https://npmtest.github.io/node-npmtest-traceur/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-traceur/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-traceur/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-traceur/build/screenCapture.buildCi.browser.test-report.html.png)](https://npmtest.github.io/node-npmtest-traceur/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-traceur/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-traceur/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-traceur/build/screenCapture.buildCi.browser.apidoc.html.png)](https://npmdoc.github.io/node-npmdoc-traceur/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-traceur/build/test-report.html](https://npmtest.github.io/node-npmtest-traceur/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-traceur/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-traceur/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-traceur/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-traceur/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-traceur/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-traceur/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-traceur/build/screenCapture.npmPackageListing.svg)
 
